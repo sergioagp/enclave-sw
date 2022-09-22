@@ -7,11 +7,9 @@
 
 int main(void)
 {
-    printf("Hello World!");
-    fflush(stdout);
-    putchar_uart0('D');
-    printf("number: %d", 10);
-    fflush(stdout);
+  printf("Hello World!\n\r");
+  printf("number: %d\n\r", 10);
+  //fflush(stdout);
     /* Loop forever */
 	for(;;);
 }
