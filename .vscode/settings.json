@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "typeinfo": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}
